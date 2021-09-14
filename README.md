@@ -1,7 +1,7 @@
 ## **_Sup! Eu sou o Lucas Paz_** 
 
 
-  |<a href="https://github.com/Lucaspazm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucaspazm&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true"/></a> | <a href="https://github.com/Lucaspazm/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspazm&layout=compact&theme=gotham&hide_border=true"/></a> |
+  |<a href="https://github.com/Lucaspazm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucaspazm&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false"/></a> | <a href="https://github.com/Lucaspazm/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspazm&layout=compact&theme=gotham&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 
